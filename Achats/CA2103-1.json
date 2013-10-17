@@ -1,0 +1,1076 @@
+{"name":"Achats Industriels","children":[
+{"name":"Marché",
+"children":[
+       {"name":"Segment",
+       "children":[
+              {"name":"Fournisseur","size":sum Montant}
+       ]}
+]},{"name":"CONSOMMABLES",
+"children":[
+       {"name":"EPI",
+       "children":[
+              {"name":"HELIOS DICA SL","size":16955}
+             ]},
+       {"name":"MAT PREMIÈRE MÉCANIQUE",
+       "children":[
+              {"name":"GANTOIS","size":2060}
+       ]}
+]},{"name":"EMBALLAGES",
+"children":[
+       {"name":"ASSISTANCE TECHNIQUE",
+       "children":[
+              {"name":"GEOTECHNIQUE RHONE ALPES SAS","size":31240}
+             ]},
+       {"name":"CONTRÔLES ET RÉGLEMENTATION",
+       "children":[
+              {"name":"CDV CONCEPT","size":5225}
+       ]}
+]},{"name":"EQUIPEMENTS",
+"children":[
+       {"name":"ELECTRICITÉ",
+       "children":[
+              {"name":"BALOGH","size":4939}
+             ]},
+       {"name":"INSTRUMENTATION",
+       "children":[
+              {"name":"BLET SA","size":828}
+              ,{"name":"PROMAT SECURITE","size":4182}
+              ,{"name":"SETNAG","size":785}
+       ]}
+]},{"name":"ETUDES",
+"children":[
+       {"name":"ASSISTANCE TECHNIQUE",
+       "children":[
+              {"name":"2C,2I","size":3687}
+              ,{"name":"ABYLSEN ST/RA","size":221069}
+              ,{"name":"ALPHA MAINTENANCE","size":31570}
+              ,{"name":"ATELIER B,A,T,","size":255047}
+              ,{"name":"ATS PREVENTION","size":64847}
+              ,{"name":"B2 INGENIERIE","size":10683}
+              ,{"name":"BEDS","size":12500}
+              ,{"name":"BESI","size":80301}
+              ,{"name":"BOUESNARD F, ARCHITECTE","size":21008}
+              ,{"name":"BOUTEFEU INGENIERIA SL","size":23640}
+              ,{"name":"BSI PM ENGINEERING SAS","size":1089}
+              ,{"name":"CONSULTING INDUSTRIAL SYSTEM","size":11951}
+              ,{"name":"CREAT SARL","size":280203}
+              ,{"name":"DEKRA CONSEIL HSE","size":36750}
+              ,{"name":"DIDIER PIERRON","size":5200}
+              ,{"name":"ERAS E2I","size":80155}
+              ,{"name":"GEA PROCESS ENGINEERING SPA","size":432770}
+              ,{"name":"GEO CONSEIL","size":3790}
+              ,{"name":"HONEYWELL","size":19428}
+              ,{"name":"IFOTEC","size":96565}
+              ,{"name":"IM PROJET","size":108680}
+              ,{"name":"INAUV","size":19000}
+              ,{"name":"INERCO INGENIERIA, TECN,Y CONSULTOR","size":8200}
+              ,{"name":"IREPOLIA","size":16300}
+              ,{"name":"ITC INGENIERIE TECHNIQUE","size":44370}
+              ,{"name":"ODZ   CONSULTANTS","size":10188}
+              ,{"name":"OREM ASTRE","size":245870}
+              ,{"name":"PRO ETUD","size":75570}
+              ,{"name":"PROGREDI","size":129714}
+              ,{"name":"SELARL BOURGUIGNON-CELLIER-LACOUR-","size":2705}
+              ,{"name":"SETP","size":2522}
+              ,{"name":"SOFRESID ENGINEERING SA","size":1000}
+              ,{"name":"SPEC SA","size":10104}
+             ]},
+       {"name":"CONTRÔLES ET RÉGLEMENTATION",
+       "children":[
+              {"name":"APAVE SUD EUROPE","size":25765}
+              ,{"name":"APAVE SUDEUROPE","size":123566}
+              ,{"name":"APPLUS RTD FRANCE","size":2100}
+              ,{"name":"ATISAE-ASISTENCIA TECNICA IND,SAE","size":14514}
+              ,{"name":"B,  C,  S,","size":605}
+              ,{"name":"BALANZAS Y SISTEMAS BIZERBA SA","size":2899}
+              ,{"name":"BUENAVENTURA GINER S,A,","size":2855}
+              ,{"name":"BUREAU VERITAS","size":161746}
+              ,{"name":"CENTRE PESAGE","size":44867}
+              ,{"name":"COREXCO","size":1480}
+              ,{"name":"DB VIB CONSULTING","size":9319}
+              ,{"name":"DNV - DET NORSKE VERITAS FRANCE","size":3804}
+              ,{"name":"EPONA","size":33125}
+              ,{"name":"GEOPAL","size":3610}
+              ,{"name":"GESTION DE RECURSOS INTERNOS SL","size":84907}
+              ,{"name":"INGENIERIA DE GESTION INDUSTRIAL SL","size":2490}
+              ,{"name":"ISAP","size":16510}
+              ,{"name":"MAPE","size":2799}
+              ,{"name":"MARLIER  S,A,","size":1590}
+              ,{"name":"MESURE ET SERVICES","size":3930}
+              ,{"name":"METTLER TOLEDO SA","size":37402}
+              ,{"name":"MISTRAS GROUP","size":1300}
+              ,{"name":"NOVON FRANCE","size":780}
+              ,{"name":"NOVOTEC CONSULTORES SA","size":1860}
+              ,{"name":"QUALICONSULT SECURITE","size":36393}
+              ,{"name":"SALA MANTENIMIENTOS SLU","size":500}
+              ,{"name":"SGS QUALITEST","size":9338}
+              ,{"name":"SUB C MARINE","size":3130}
+              ,{"name":"SYSTHERM","size":1840}
+              ,{"name":"TECNICAS PREDICT,INSTRUMENTACION SL","size":21408}
+              ,{"name":"TRACERCO EUROPE","size":21905}
+             ]},
+       {"name":"ETUDES GÉNÉRALES",
+       "children":[
+              {"name":"ARTELIA VILLE ET TRANSPORT","size":22500}
+              ,{"name":"ATECAL","size":4970}
+              ,{"name":"AUVERTECH","size":9613}
+              ,{"name":"BEG INGENIERIE","size":265725}
+              ,{"name":"CETIAT","size":4465}
+              ,{"name":"CHEMSIS","size":2586336}
+              ,{"name":"ELCIMAI CONSEIL","size":11120}
+              ,{"name":"ENGINEERING ET CONSULTING","size":61880}
+              ,{"name":"ERAS","size":167800}
+              ,{"name":"ETI ENVIRONNEMENT","size":47925}
+              ,{"name":"HORUS INGENIERIE CONSEIL","size":22500}
+              ,{"name":"I  R  H   INGENIEUR CONSEIL","size":2200}
+              ,{"name":"IAC SIM ENGINEERING","size":14820}
+              ,{"name":"INERIS","size":1600}
+              ,{"name":"INEVO TECHNOLOGIY","size":32939}
+              ,{"name":"INGENICA","size":194499}
+              ,{"name":"INGEROP CONSEIL ET INGENIERIE","size":94050}
+              ,{"name":"NOVA INGENIERIE","size":80602}
+              ,{"name":"R&V ENGINEERING","size":13600}
+              ,{"name":"TECHNIP","size":6690230}
+              ,{"name":"TECHNIP IBERIA SA","size":288285}
+              ,{"name":"TECHNIP INDUSTRIES LYON","size":56638}
+       ]}
+]},{"name":"GÉNIE CIVIL ET BÂTIMENT",
+"children":[
+       {"name":"BÂTIMENT / SECOND OEUVRE",
+       "children":[
+              {"name":"BERGANIN MENUISERIE SAS","size":35172}
+              ,{"name":"FERBECK & FUMITHERM","size":78602}
+              ,{"name":"FM SUD GALCO","size":30226}
+              ,{"name":"I, M, D, V,","size":28115}
+              ,{"name":"LOPEZ  PATRICK","size":38875}
+              ,{"name":"MAX TROMPAT","size":29115}
+              ,{"name":"MIROITERIE DE LA LOUE","size":29939}
+              ,{"name":"MR TOUSSAINT JACKY","size":40595}
+              ,{"name":"REMA TIP TOP FRANCE","size":2195}
+              ,{"name":"ROLLAND SARL","size":5009}
+              ,{"name":"SCARFO","size":52989}
+              ,{"name":"SOGEB MAZET","size":124289}
+              ,{"name":"TARVEL","size":54572}
+             ]},
+       {"name":"GÉNIE CIVIL - VRD - TP",
+       "children":[
+              {"name":"CAMPEZO ASFALTOS DE CASTILLA Y LEON","size":19405}
+              ,{"name":"CARDEM SAS","size":494891}
+              ,{"name":"CONSTRUCCIONES CALIDAD SL","size":248849}
+              ,{"name":"CONSTRUCCIONES JOSE PIEDRA SA","size":77216}
+              ,{"name":"EIFFAGE CONSTRUCTION AUVERGNE","size":37257}
+              ,{"name":"EIFFAGE TP","size":1856815}
+              ,{"name":"FONDASOL","size":12500}
+              ,{"name":"FRANCISCO J, Y J,M,IZQUIERDO GONZAL","size":839}
+              ,{"name":"MACONNERIE TRAVAUX INDUSTRIELS","size":74358}
+              ,{"name":"PI CONSTRUCTION","size":17379}
+              ,{"name":"RIBIERE INDUSTRIE","size":38339}
+              ,{"name":"SMTS Groupe Traynard","size":782184}
+              ,{"name":"SNEC","size":1008923}
+              ,{"name":"SOGEA","size":87950}
+              ,{"name":"TECSA EMPRESA CONSTRUCTORA SA","size":27598}
+              ,{"name":"VONROLL HYDRO","size":552}
+             ]},
+       {"name":"GÉNIE CIVIL / STRUCTURE",
+       "children":[
+              {"name":"BEROA FRANCE","size":41665}
+              ,{"name":"SOFRAST","size":45360}
+              ,{"name":"SOLETANCHE BACHY PIEUX","size":876311}
+       ]}
+]},{"name":"GÉNIE CLIMATIQUE",
+"children":[
+       {"name":"FROID ET CLIMATISATION",
+       "children":[
+              {"name":"AXIMA  REFRIGERATION","size":248225}
+              ,{"name":"AXIMA SEITHA","size":206181}
+              ,{"name":"CAU S,A,","size":292386}
+              ,{"name":"CNIM DIVISION BABCOK","size":21240}
+              ,{"name":"DALKIA","size":12714}
+              ,{"name":"DALKIA ENERGIA Y SERVICIOS SA","size":2300}
+              ,{"name":"DEHON SERVICE","size":341}
+              ,{"name":"F2A","size":870}
+              ,{"name":"HERVE THERMIQUE","size":98625}
+              ,{"name":"JOHNSON CONTROLS INDUSTRIES","size":278932}
+              ,{"name":"MIDI THERMIQUE","size":7879}
+       ]}
+]},{"name":"GÉNIE EIA",
+"children":[
+       {"name":"DÉTECTION INCENDIE",
+       "children":[
+              {"name":"BELLT ESPAÑA SA","size":13692}
+              ,{"name":"CASTELLANA SEGURIDAD Y CONTROL SA","size":37084}
+              ,{"name":"CHUBB SECURITE","size":241926}
+              ,{"name":"DRÄGER SAFETY FRANCE SAS","size":225471}
+              ,{"name":"EXTINTORES EIVAR S,A,","size":1336}
+              ,{"name":"QUIBAC SA","size":1840}
+              ,{"name":"SIEMENS SAS","size":151550}
+             ]},
+       {"name":"ELECTRICITÉ - INSTRUMENTATION",
+       "children":[
+              {"name":"ACCI","size":22320}
+              ,{"name":"ACTEMIUM  SRTI","size":83930}
+              ,{"name":"AEG POWER SOLUTIONS","size":18531}
+              ,{"name":"APEX INGENIERIA INTEGRAL SA","size":110521}
+              ,{"name":"BOBINADOS E INST,ELECTR,BURGOS SL","size":2554}
+              ,{"name":"CEGELEC CENTRE EST","size":21000}
+              ,{"name":"CEGELEC CENTRE EST COMPTA","size":28820}
+              ,{"name":"CEGELEC/CLERMONT","size":137191}
+              ,{"name":"COTE S,A,S,","size":20392}
+              ,{"name":"DM REGULATION","size":251882}
+              ,{"name":"EATON INDUSTRIES (SPAIN) SL","size":725}
+              ,{"name":"EFACEC SISTEMAS ESPAÑA SL","size":69046}
+              ,{"name":"EKIUM","size":626243}
+              ,{"name":"GE POWER CONTROLS","size":13682}
+              ,{"name":"GMR","size":39228}
+              ,{"name":"GROUPE SNEF","size":9832}
+              ,{"name":"GUNNEBO FRANCE","size":34935}
+              ,{"name":"INEO MIDI PYRENEES","size":890}
+              ,{"name":"INEO RHONE-ALPES  AUVERGNE","size":2756317}
+              ,{"name":"INSYSTEC","size":10194}
+              ,{"name":"INVENSYS SYSTEMS FR,/TRICONEX","size":1695}
+              ,{"name":"OPTEOR","size":1239510}
+              ,{"name":"SAFT GRANIER","size":1255}
+              ,{"name":"SCHALTBAU FRANCE","size":2676}
+              ,{"name":"SDEL RHONE ALPES INDUSTRIE","size":147955}
+              ,{"name":"SECAUTO","size":2674964}
+              ,{"name":"SIEMSA INDUSTRIA SA","size":334480}
+              ,{"name":"SNEF DELTA COMMUNICATIONS","size":14452}
+              ,{"name":"SOTEB","size":170316}
+              ,{"name":"SPIE SUD EST","size":3080275}
+       ]}
+]},{"name":"GÉNIE MÉCANIQUE",
+"children":[
+       {"name":"BÂTIMENT / SECOND OEUVRE",
+       "children":[
+              {"name":"MANREY","size":19393}
+             ]},
+       {"name":"CHARPENTE - STRUCTURE",
+       "children":[
+              {"name":"CIM","size":317234}
+              ,{"name":"CMM","size":135639}
+              ,{"name":"GAGNE","size":2098343}
+              ,{"name":"GRIJALVO MATERIALES CONSTRUCCION SL","size":3768}
+              ,{"name":"GUION  INDUSTRIE","size":127572}
+              ,{"name":"PUERTAS ROPER SA","size":2584}
+              ,{"name":"SECTI","size":24655}
+              ,{"name":"SERMECA STEPHANOISE","size":602072}
+             ]},
+       {"name":"ECHAFFAUDAGE - CALORIFUGE",
+       "children":[
+              {"name":"AISLAMIENTOS CEA SL","size":218343}
+              ,{"name":"ANDAMIOS BURGOS SL","size":30902}
+              ,{"name":"ELIT","size":659}
+              ,{"name":"GRUAS BURGOS SA","size":42857}
+              ,{"name":"KAEFER WANNER","size":892134}
+              ,{"name":"LYON ECHAFAUDAGES","size":380314}
+              ,{"name":"OUVAROFF","size":1785698}
+              ,{"name":"PEDUZZI ISOLATIONS","size":40940}
+             ]},
+       {"name":"LEVAGE / MONTAGE",
+       "children":[
+              {"name":"FOSELEV PROVENCE","size":330193}
+              ,{"name":"JOFER ELEVACION SL","size":1516}
+             ]},
+       {"name":"MAINTENANCE ASCENSEURS",
+       "children":[
+              {"name":"OTIS","size":80489}
+              ,{"name":"SCHINDLER","size":15483}
+             ]},
+       {"name":"MAINTENANCE GÉNÉRALE",
+       "children":[
+              {"name":"A2M","size":3600}
+              ,{"name":"AB MAINTENANCE","size":525004}
+              ,{"name":"AIR-RAIL SL","size":27326}
+              ,{"name":"ASSA ABLOY ENTRANCE SYSTEMS SPAIN,S","size":635}
+              ,{"name":"BAREP","size":45329}
+              ,{"name":"EGM","size":547730}
+              ,{"name":"GRETEDI, S,L,","size":2627}
+              ,{"name":"JOSE Mª MORAL E HIJOS SL","size":8045}
+              ,{"name":"MECA G SERVICES","size":58221}
+              ,{"name":"MIB MAINTENANCE INDUST,BERRY","size":553}
+              ,{"name":"MSA GALLET","size":1355}
+              ,{"name":"OSIRIS GIE Roussillon","size":1580}
+              ,{"name":"RAMOS CORRALEJO SANTIAGO","size":178017}
+              ,{"name":"TECHNIFER","size":40000}
+              ,{"name":"TORRAVAL COOLING SL","size":1350}
+              ,{"name":"TRANS SERVICE","size":10269}
+             ]},
+       {"name":"MÉCANIQUE GÉNÉRALE",
+       "children":[
+              {"name":"AMADA METRECS SA","size":5062}
+              ,{"name":"CASTOLIN IBERICA S,L,U,","size":20}
+              ,{"name":"CRAWFORD HAFA SAS","size":1492}
+              ,{"name":"DURUM SA","size":2975}
+              ,{"name":"EL PLANTIO MOTOR SL","size":1429}
+              ,{"name":"ERIC CENTRE SARL","size":5740}
+              ,{"name":"LEVELEC","size":419}
+              ,{"name":"M,G,A,I","size":24833}
+              ,{"name":"MAFELCA SL","size":21171}
+              ,{"name":"MAHERSA-MANUTENCION Y HERRAM,SL","size":20494}
+              ,{"name":"MECANIZADOS INSITU BALBAS, S,L,","size":5120}
+              ,{"name":"METALURGICA ROSAN SL","size":258035}
+              ,{"name":"MOVITEC WRAPPING SYSTEMS SL","size":2710}
+              ,{"name":"NORSUD","size":230}
+              ,{"name":"PETRAM","size":35320}
+              ,{"name":"SARL GLOMOT PENOT SYSTEMES","size":460}
+              ,{"name":"SARL MGF","size":64199}
+              ,{"name":"SYCA SYSTEMS","size":420}
+              ,{"name":"TEST VANNES","size":15770}
+              ,{"name":"VIBRACO ACOVAL","size":1684}
+             ]},
+       {"name":"NETTOYAGE INDUSTRIEL",
+       "children":[
+              {"name":"A, HAK INDUSTRIAL SERVICES","size":86508}
+              ,{"name":"BATINET","size":51988}
+              ,{"name":"FCC-FOMENTO CONSTR,Y CONTRATAS SA","size":8135}
+              ,{"name":"HYDROKARST","size":2472}
+              ,{"name":"KARCHER SA","size":6722}
+              ,{"name":"ORTEC SERVICES INDUSTRIE","size":51250}
+              ,{"name":"SINEA","size":588237}
+              ,{"name":"SNSI PROVENCE","size":202594}
+              ,{"name":"SODI RHONE ALPES","size":12037}
+              ,{"name":"SOLARCA","size":128390}
+              ,{"name":"SRA SAVAC","size":362373}
+              ,{"name":"SRA SAVAC SUEZ","size":24623}
+              ,{"name":"THERMO CLEAN RHONE ALPES","size":707}
+             ]},
+       {"name":"PEINTURE INDUSTRIELLE",
+       "children":[
+              {"name":"DOBUR SA","size":43063}
+              ,{"name":"ERBA","size":31537}
+              ,{"name":"NOE JACQUIER ENERGIE","size":52972}
+              ,{"name":"PREZIOSO","size":119759}
+              ,{"name":"RHOD PEINTURE","size":68467}
+              ,{"name":"SARL LLACER","size":5705}
+              ,{"name":"WESDURLAN SL","size":33989}
+             ]},
+       {"name":"PREST, REMPLACEMENT CATALYSEUR",
+       "children":[
+              {"name":"EURO SYSTEM","size":9817}
+              ,{"name":"TECNICAS DE REFRACTARIOS SAU","size":164042}
+              ,{"name":"YSTRAL","size":23990}
+             ]},
+       {"name":"PROTECTION INCENDIE",
+       "children":[
+              {"name":"ATEX EXPLOSIONSSCHUTZ GMBH","size":2885}
+              ,{"name":"COFELY AXIMA","size":564014}
+              ,{"name":"DESAUTEL","size":17884}
+              ,{"name":"FAGUS  GRECON GRETEN  GMBH","size":914}
+              ,{"name":"INCOM EXPLOSIONSSCHUTZ","size":257629}
+              ,{"name":"PROTEC-FEU","size":280}
+              ,{"name":"R,PONS","size":10909}
+              ,{"name":"SIDES","size":29745}
+              ,{"name":"STEIBLE INGENIERIE DISTRIBUTI,","size":2049}
+              ,{"name":"TELKROM SL","size":120}
+             ]},
+       {"name":"TUYAUTERIE - CHAUDONNERIE",
+       "children":[
+              {"name":"ACIP","size":13000}
+              ,{"name":"CDFI","size":95190}
+              ,{"name":"CIMAT SARTEC","size":2871128}
+              ,{"name":"CXL INDUSTRIES","size":12167}
+              ,{"name":"EIFFEL INDUSTRIE","size":899397}
+              ,{"name":"ENDEL","size":462376}
+              ,{"name":"LYONNAISE DE TUYAUTERIE ET DE MONTA","size":7416049}
+              ,{"name":"MECOIM SL","size":45715}
+              ,{"name":"PCVS TUYAUTERIE","size":130570}
+              ,{"name":"SAMM","size":65581}
+              ,{"name":"SAS A D F RHONE ALPES","size":3864003}
+              ,{"name":"SLTI","size":45755}
+              ,{"name":"SLTI SETIC","size":3730}
+       ]}
+]},{"name":"MATIÈRES PREMIÈRES",
+"children":[
+       {"name":"ELECTRICITÉ - INSTRUMENTATION",
+       "children":[
+              {"name":"NISCAYAH","size":6813}
+       ]}
+]},{"name":"MATÉRIEL EIA",
+"children":[
+       {"name":"ELECTRICITÉ",
+       "children":[
+              {"name":"ABB FRANCE","size":89303}
+              ,{"name":"ABB FRANCE DIVISION MMD","size":62250}
+              ,{"name":"ABC DISTRIBUTION","size":62527}
+              ,{"name":"ACC ATELIER DE CABLAGE CENTRE","size":132329}
+              ,{"name":"AGT","size":1286}
+              ,{"name":"ALSTOM GRID","size":3680}
+              ,{"name":"BARTEC","size":4306}
+              ,{"name":"CARDOT SA","size":6687}
+              ,{"name":"CEMP FRANCE SA","size":11918}
+              ,{"name":"CETAL","size":3622}
+              ,{"name":"CODIMA ROBOFLUX","size":4422}
+              ,{"name":"COMPTOIR DES COURANTS FAIBLES","size":918}
+              ,{"name":"DME","size":2230}
+              ,{"name":"ELECTRO CAOR SA","size":54}
+              ,{"name":"ELECTROSON CASTILLA SA","size":2673}
+              ,{"name":"EUROMECA","size":20672}
+              ,{"name":"FLEXIM","size":1989}
+              ,{"name":"HAZEMEYER","size":503133}
+              ,{"name":"HELMKE","size":8986}
+              ,{"name":"HISPANOFIL SA","size":38240}
+              ,{"name":"IAC FRANCE","size":2764}
+              ,{"name":"MARECHAL ELECTRIC","size":2623}
+              ,{"name":"RADIOSPARES COMPOSANTS","size":7106}
+              ,{"name":"REXEL FRANCE  SUD EST","size":97009}
+              ,{"name":"REXEL FRANCE /SUD EST","size":40247}
+              ,{"name":"SAMMODE SA","size":37824}
+              ,{"name":"SCHNEIDER ELECTRIC ENERGY","size":64798}
+              ,{"name":"SCHNEIDER ELECTRIC FRANCE","size":1305175}
+              ,{"name":"SCHNEIDER ELECTRIC IT FRANCE","size":54240}
+              ,{"name":"SCHNEIDER ELECTRIC IT FRANCE APC","size":21961}
+              ,{"name":"SCHNEIDER ELECTRIC IT SPAIN SL","size":28217}
+              ,{"name":"SCHNEIDER ELECTRIC PROTECTION","size":4800}
+              ,{"name":"SIE","size":3896}
+              ,{"name":"SIEMENS SA","size":72095}
+              ,{"name":"SINEX INDUSTRIE","size":6342}
+              ,{"name":"SOCOMEC","size":67380}
+              ,{"name":"SOCOTEC INDUSTRIES","size":4900}
+              ,{"name":"TRANSFORMATEURS","size":15200}
+              ,{"name":"TRANSFOS MARY","size":13164}
+              ,{"name":"TRESSE METALLIQUE J,FORISSIER","size":1710}
+              ,{"name":"UME","size":56934}
+              ,{"name":"VIGILEC AUVERGNE","size":310}
+              ,{"name":"VOSSLOH COGIFER","size":1574}
+             ]},
+       {"name":"INSTRUMENTATION",
+       "children":[
+              {"name":"APOLLO INSTRUMENTS","size":14700}
+              ,{"name":"APTELEC","size":69}
+              ,{"name":"ASERTI ELECTRONIC SUD","size":640}
+              ,{"name":"AUMA FRANCE","size":4652}
+              ,{"name":"BAMO MESURES SA","size":1155}
+              ,{"name":"BAUMER BOURDON HAENNI","size":2948}
+              ,{"name":"BERGER SA","size":1395}
+              ,{"name":"CHAUVIN ARNOUX","size":6119}
+              ,{"name":"COAXEL","size":1247}
+              ,{"name":"COMPUR MONITORS SARL","size":586}
+              ,{"name":"CUENOT REGULATION","size":12453}
+              ,{"name":"DAMAC","size":223}
+              ,{"name":"DIMECA SAS","size":744}
+              ,{"name":"DURAG FRANCE","size":29719}
+              ,{"name":"ECOM NIED","size":4390}
+              ,{"name":"ELCOWA","size":3083}
+              ,{"name":"ELECTRO LOIRE","size":221}
+              ,{"name":"ELECTRO SUD EST","size":3782}
+              ,{"name":"EMERSON PROCESS MANAGEMENT","size":545195}
+              ,{"name":"EMERSON PROCESS MANAGEMENT SL","size":187099}
+              ,{"name":"ENDRESS-HAUSER SUD-EST","size":173752}
+              ,{"name":"ETS MYDIS SAS","size":918}
+              ,{"name":"ETS PERREAU","size":225}
+              ,{"name":"EUROTHERM AUTOMATION","size":142}
+              ,{"name":"FAURE AUTOMATISMES","size":22512}
+              ,{"name":"FAURIE MONTLUCON","size":7951}
+              ,{"name":"FIRELEC SARL","size":9508}
+              ,{"name":"GE DIVISION MASONEILAN","size":278186}
+              ,{"name":"GE SENSING/DRUCK","size":12660}
+              ,{"name":"HYDROMECA","size":2674}
+              ,{"name":"IFM ELECTRONIC SA","size":4502}
+              ,{"name":"IJINUS","size":781}
+              ,{"name":"INVENSYS SYSTEMS FR,/FOXBORO","size":7785}
+              ,{"name":"ITRON FRANCE","size":13804}
+              ,{"name":"JS AUTOMATION","size":5300}
+              ,{"name":"KROHNE SA","size":163149}
+              ,{"name":"LAKAUTO SL","size":3364}
+              ,{"name":"LOREME","size":3770}
+              ,{"name":"M&C TECH GROUP FRANCE","size":7229}
+              ,{"name":"METRA SA","size":10711}
+              ,{"name":"METTLER TOLEDO ANALYSE INDUST,","size":41629}
+              ,{"name":"MTL INSTRUMENTS SARL","size":2447}
+              ,{"name":"O T I  NDUSTRIES","size":1202}
+              ,{"name":"OLDHAM SA","size":17023}
+              ,{"name":"PEPPERL ET FUCHS SARL","size":18956}
+              ,{"name":"PETRAS J","size":50238}
+              ,{"name":"PORTA SISTEMAS SL","size":2734}
+              ,{"name":"PR ELECTRONICS France","size":6322}
+              ,{"name":"PYROCONTROLE grpe Chauvin Arnoux","size":115627}
+              ,{"name":"RAE","size":5945}
+              ,{"name":"RB TECHNOLOGIES","size":1600}
+              ,{"name":"RHONE EQUIPEMENT AUTOMATISMES","size":272161}
+              ,{"name":"SAMSON REGULATION","size":2359}
+              ,{"name":"SAPHYMO","size":598}
+              ,{"name":"SAPPEL","size":1473}
+              ,{"name":"SARL SOLYTEC","size":22515}
+              ,{"name":"SERES","size":7421}
+              ,{"name":"SERIC TECHNOLOGIE","size":198980}
+              ,{"name":"SERVOMEX","size":9164}
+              ,{"name":"SICK France","size":3963}
+              ,{"name":"SICK MAIHAK","size":38929}
+              ,{"name":"SIEMENS A&D  SC PA/PS","size":94342}
+              ,{"name":"SINCRA","size":10743}
+              ,{"name":"SISTEC","size":95468}
+              ,{"name":"THERMO EST","size":4695}
+              ,{"name":"VEGA TECHNIQUE SA","size":99608}
+              ,{"name":"YOKOGAWA FRANCE","size":386318}
+             ]},
+       {"name":"Non affecté",
+       "children":[
+              {"name":"SWR engineering Messtechnik GmbH","size":5739}
+       ]}
+]},{"name":"MATÉRIEL MÉCANIQUE",
+"children":[
+       {"name":"MAT PREMIÈRE MÉCANIQUE",
+       "children":[
+              {"name":"CHARRON INOX SAS","size":57306}
+              ,{"name":"DONCASTERS PARALLOY","size":190594}
+              ,{"name":"HAYNES INTERNATIONAL","size":77330}
+              ,{"name":"KDI LONGOM,","size":32594}
+              ,{"name":"MEISER ELFOR","size":2659}
+              ,{"name":"MERSEN","size":18855}
+              ,{"name":"THYSSEN KRUPP MATERIALS FRANCE","size":4331}
+             ]},
+       {"name":"Non affecté",
+       "children":[
+              {"name":"MPR INDUSTRIES","size":3346}
+             ]},
+       {"name":"COMPRESSEUR",
+       "children":[
+              {"name":"AERZEN-FRANCE","size":19698}
+              ,{"name":"ATLAS COPCO COMPRESSEURS","size":183104}
+              ,{"name":"ATLAS COPCO SA ESPAÑOLA","size":146053}
+              ,{"name":"BAUER COMPRESSEURS","size":6166}
+              ,{"name":"BCH COMPRESSEURS","size":7580}
+              ,{"name":"COMPAIR","size":14720}
+              ,{"name":"CPI-LIARD S,A,S","size":54502}
+              ,{"name":"HOERBIGER FRANCE S,A","size":9713}
+              ,{"name":"HOWDEN BC COMPRESSORS","size":10421}
+              ,{"name":"INGERSOLL RAND AIR SOLUTIONS FRANCE","size":318}
+              ,{"name":"KAESER COMPRESSEURS","size":11150}
+              ,{"name":"PERNIN EQUIPEMENTS","size":580}
+              ,{"name":"ROBUSCHI FRANCE","size":3272}
+              ,{"name":"RYCAM SL","size":2288}
+              ,{"name":"SIEMENS TURBOMACHINERY","size":1304337}
+             ]},
+       {"name":"EQUIPEMENT CHAUDRONNÉ",
+       "children":[
+              {"name":"ACM","size":4920}
+              ,{"name":"ACTI   ATLANTIC","size":125760}
+              ,{"name":"ALFA LAVAL SAS","size":101250}
+              ,{"name":"ATC AULAGNER","size":71600}
+              ,{"name":"ATCS","size":845}
+              ,{"name":"BARRIQUAND TECHNOLOGIES THERMIQUES","size":39450}
+              ,{"name":"BUSS SMS GMBH","size":1647}
+              ,{"name":"CORNELOUP VUILLAFANS","size":11300}
+              ,{"name":"EURL 2CT","size":348846}
+              ,{"name":"EURORESERVOIR","size":50000}
+              ,{"name":"FIPP","size":64548}
+              ,{"name":"KALKER GARAY","size":6719}
+              ,{"name":"LESCAUT","size":118696}
+              ,{"name":"PCVS","size":555880}
+              ,{"name":"PCVS CHAUDRONNERIE","size":8522}
+              ,{"name":"PIERRE GUERIN SA","size":4624}
+              ,{"name":"PLASTICON FRANCE","size":2800}
+              ,{"name":"SAG","size":122650}
+              ,{"name":"SCHUBERTH","size":32040}
+              ,{"name":"SIMETAL SA","size":16739}
+              ,{"name":"TECHIM","size":62280}
+             ]},
+       {"name":"EQUIPEMENT DE CONDITIONNEMENT",
+       "children":[
+              {"name":"AETNAGROUP FRANCE","size":5626}
+              ,{"name":"AMETIS","size":1172}
+              ,{"name":"COPERION  GMBH","size":7961}
+              ,{"name":"CYBERLABO","size":3980}
+              ,{"name":"ELPE","size":2550}
+              ,{"name":"ESTEVE","size":2008}
+              ,{"name":"GARDNER DENVER FRANCE SA","size":85444}
+              ,{"name":"HAVER FRANCE","size":22147}
+              ,{"name":"HAVER SERVICE","size":24294}
+              ,{"name":"MARKEM IMAJE SAS","size":8664}
+              ,{"name":"MJ80 EQUIPEMENT INDUSTRIEL","size":7015}
+              ,{"name":"NEWTEC BAG PALLETIZING","size":3657}
+              ,{"name":"PALAMATIC FRANCE","size":956}
+              ,{"name":"PREMIER TECH CHRONOS SA","size":5587}
+              ,{"name":"ROTRANS SA","size":39142}
+              ,{"name":"SAUTELMA ROTOLOK","size":2250}
+              ,{"name":"TECNICAS TRANSVAS,PETROQUIMICOS SL","size":2424}
+              ,{"name":"TOSA  FRANCE","size":9390}
+              ,{"name":"TRANSP,ENVASADO Y MANUTENCION SA","size":2105}
+              ,{"name":"WEICOM SRL","size":3500}
+             ]},
+       {"name":"EQUIPEMENT SPÉCIFIQUE CHIMIE",
+       "children":[
+              {"name":"A Z O","size":29875}
+              ,{"name":"ANDRITZ   SAS","size":5177}
+              ,{"name":"APLICACIONES TERMICAS ESPECIALES SL","size":4562}
+              ,{"name":"AQUASYSTEMS INTERNATIONAL NV","size":59000}
+              ,{"name":"BECEP SARL","size":55150}
+              ,{"name":"BES","size":17883}
+              ,{"name":"BURDINOLA ,S,COOP,","size":5592}
+              ,{"name":"BUSS-SMS-CANZLER GMBH","size":19629}
+              ,{"name":"CASALS CARDONA INDUSTRIAL SA","size":2401}
+              ,{"name":"CHAUVIN SA","size":2885}
+              ,{"name":"DE DIETRICH EQUIPOS QUIMICOS SL","size":10834}
+              ,{"name":"DE DIETRICH PROCESS SYSTEMS","size":93956}
+              ,{"name":"DELTA NEU","size":414390}
+              ,{"name":"EKATO RUHR UND MISCHTECHNIK GMBH","size":118056}
+              ,{"name":"ELFAB LIMITED","size":3222}
+              ,{"name":"EMMSA-ESPAÑOLA MONTAJES METALICOS","size":63000}
+              ,{"name":"ENDRESS+HAUSER","size":1121}
+              ,{"name":"EQUIPAMIENTOS DE CONTROL SL","size":1984}
+              ,{"name":"FERRUM SA","size":41648}
+              ,{"name":"FIKE FRANCE","size":4034}
+              ,{"name":"GEA PROCESS INGINEERING SAS","size":7656}
+              ,{"name":"GLATT INGENIEURTECHNIK GMBH","size":1222657}
+              ,{"name":"H+VALVES","size":16872}
+              ,{"name":"KANON LOADING EQUIPMENT","size":6123}
+              ,{"name":"KROHNE IBERIA SRL","size":306}
+              ,{"name":"MACOGA SA","size":5221}
+              ,{"name":"MAN DWE GMBH","size":21843}
+              ,{"name":"MAX MULLER AG","size":774}
+              ,{"name":"MEDELPHARM","size":31603}
+              ,{"name":"METTLER TOLEDO SAE","size":31263}
+              ,{"name":"MOPSA INDUSTRIAL SL","size":14884}
+              ,{"name":"NEWAG GMBH ET CO","size":29377}
+              ,{"name":"OERLIKON  LEYBOLD SA","size":24704}
+              ,{"name":"PFAUDLER","size":7911}
+              ,{"name":"ROTEX EUROPE","size":2802}
+              ,{"name":"ROUSSELET CENTRIFUGATION SA","size":297}
+              ,{"name":"RPA PROCESS SAS","size":7433}
+              ,{"name":"SGL CARBON TECHNIC","size":1557}
+              ,{"name":"SULZER CHEMTECH ALLSCHWIL AG","size":1258}
+              ,{"name":"TECNOQUIMICA VEYCA SL","size":13928}
+              ,{"name":"TEMA EQUIPEMENTS","size":34879}
+              ,{"name":"TEMA MAQUINARIA SA","size":119}
+              ,{"name":"THIMON","size":6668}
+              ,{"name":"TROCCON SARL","size":2952}
+              ,{"name":"WATERLEAU","size":19415}
+              ,{"name":"WATERLEAU FRANCE","size":62100}
+             ]},
+       {"name":"EQUIPEMENT THERMIQUE",
+       "children":[
+              {"name":"AET TECHNOLOGIES","size":347896}
+              ,{"name":"AI2C","size":9514}
+              ,{"name":"AIR INDUSTRIE THERMIQUE","size":1077077}
+              ,{"name":"BABCOCK WANSON","size":997}
+              ,{"name":"BRONSWERK HEAT TRANSFER","size":304705}
+              ,{"name":"CLAYTON","size":9974}
+              ,{"name":"DE DIETRICH PROCESS SYSTEM SAS","size":39748}
+              ,{"name":"ETIREX SA","size":30870}
+              ,{"name":"FIVES PILLARD","size":498}
+              ,{"name":"FRANCE THERMIQUE","size":5540}
+              ,{"name":"JACIR","size":84458}
+              ,{"name":"RINKAL","size":1070}
+              ,{"name":"SELAS Warmetechnik GMBH","size":33000}
+              ,{"name":"STEIN ENERGIE","size":68}
+             ]},
+       {"name":"FILTRATION",
+       "children":[
+              {"name":"AAF - SA","size":15224}
+              ,{"name":"AFETI","size":7305}
+              ,{"name":"AZ INDUSTRIE","size":10224}
+              ,{"name":"CAMFIL","size":724}
+              ,{"name":"CAPTAIR ET DIMAVENT","size":3085}
+              ,{"name":"CEFA","size":1064}
+              ,{"name":"CUNO FILTRATION SAS","size":1963}
+              ,{"name":"DE DIETRICH PROCESS SYTEMS SEMUR","size":9532}
+              ,{"name":"DONALDSON FRANCE SAS","size":3678}
+              ,{"name":"DRM DR MULLER AG SWITZERLAND","size":1454}
+              ,{"name":"EUROPEAN FILTER CORPORATION","size":48421}
+              ,{"name":"FAURE EQUIPEMENTS SA","size":3122}
+              ,{"name":"FB FILTRATION","size":2141}
+              ,{"name":"FILTRATION SERVICES","size":13839}
+              ,{"name":"LABOR HAKO","size":4484}
+              ,{"name":"MAHLE FILTRATION INDUSTRIELLE","size":145503}
+              ,{"name":"MARLAU","size":9560}
+              ,{"name":"MILLIPORE","size":38353}
+              ,{"name":"MORTELECQUE SA","size":7090}
+              ,{"name":"MUFITEC, S,L,","size":2388}
+              ,{"name":"PALL FRANCE","size":70649}
+              ,{"name":"SEFAR FYLTIS","size":33263}
+              ,{"name":"ZARZUELA FILTRACION INDUSTRIAL SL","size":2173}
+             ]},
+       {"name":"GARNISSAGE DE DISTILLATION",
+       "children":[
+              {"name":"KOCH GLITSCH ITALIA SRL","size":71436}
+              ,{"name":"LTM INDUSTRIE","size":30494}
+              ,{"name":"SULZER CHEMTECH LTD","size":5820}
+              ,{"name":"VEREINIGTE FULLKORPER FABRIKEN","size":27701}
+             ]},
+       {"name":"GARNITURES MÉCANIQUES",
+       "children":[
+              {"name":"DIT HOLLAND","size":3332}
+              ,{"name":"EAGLE BURGMANN FRANCE SAS","size":85060}
+              ,{"name":"GONZALEZ DIAZ PAULA (S,LEGOL)","size":26553}
+              ,{"name":"GONZALEZ MARTINEZ FRANCISCO JAVIER","size":74051}
+              ,{"name":"JOHN CRANE FRANCE","size":142913}
+              ,{"name":"JOHN CRANE IBERICA SA","size":6963}
+             ]},
+       {"name":"JOINTS",
+       "children":[
+              {"name":"CHROMEX","size":267}
+              ,{"name":"EYNARD ROBIN SA","size":299592}
+              ,{"name":"GOMEZ GIL SA SUMIN,Y EXCLUS,IND,","size":1897}
+              ,{"name":"JAMES WALKER","size":1215}
+              ,{"name":"LATTY INTERNATIONAL","size":3879}
+              ,{"name":"MAAGTECHNIC","size":9362}
+              ,{"name":"MCD CAOUTCHOUC","size":164}
+              ,{"name":"ONIS SAS","size":3965}
+              ,{"name":"RODATOR-GARCIA DE LA VIÑA SL","size":427}
+              ,{"name":"SIEM SUPRANITE","size":67239}
+              ,{"name":"SUMINISTROS RODABUR SL","size":73}
+             ]},
+       {"name":"MACH,SPÉCIALES DE TRANSITISQUE",
+       "children":[
+              {"name":"CINETIC TRANSITIQUE","size":18959}
+              ,{"name":"EXPRESSO FRANCE","size":5081}
+              ,{"name":"GERICKE SA","size":5410}
+              ,{"name":"SITI","size":5004}
+              ,{"name":"TECNOIL, S,L,","size":1072}
+             ]},
+       {"name":"MATÉRIAUX",
+       "children":[
+              {"name":"A  C  E","size":2412}
+              ,{"name":"AGITEC","size":3525}
+              ,{"name":"BUHLER","size":2152}
+              ,{"name":"E,J,M,","size":14601}
+              ,{"name":"FERRI WELD BURGOS SL","size":2299}
+              ,{"name":"GERVOIS","size":473}
+              ,{"name":"JUAN JOSE GIMENEZ IZQUIERDO SL","size":320}
+              ,{"name":"LA FONDERIE CHAROLLAISE","size":6474}
+              ,{"name":"LECQ FRANCE INDUSTRIE","size":209}
+              ,{"name":"MVDG ALPHA RESINES","size":24085}
+              ,{"name":"PARI SA","size":41098}
+              ,{"name":"S M G M","size":695}
+              ,{"name":"SAVOIE REFRACTAIRES","size":12623}
+              ,{"name":"SELEE CORPORATION","size":30937}
+              ,{"name":"USINES MERGER SA","size":10500}
+             ]},
+       {"name":"MÉCA TRANSMISSION",
+       "children":[
+              {"name":"CETIB","size":120739}
+              ,{"name":"DRESSER RAND","size":516}
+              ,{"name":"FESTO EURL","size":3130}
+              ,{"name":"FRANCO PACK","size":5980}
+              ,{"name":"GE MEASUREMENT AND CONTROL FRANCE","size":13699}
+              ,{"name":"GRENOBLE TRANSMISSIONS MECANIQUES","size":78}
+              ,{"name":"GUIFFRAY cie","size":41108}
+              ,{"name":"HANSEN INDUSTRIAL TRANSMISSIONS NV","size":-154}
+              ,{"name":"LAURENT","size":415}
+              ,{"name":"LOIRE INDUSTRIE","size":687}
+              ,{"name":"MARIN","size":3102}
+              ,{"name":"TRIPETTE & RENAUD","size":12573}
+              ,{"name":"USOCOME-SEW S,A,","size":1649}
+              ,{"name":"UTAH HYDRAULIQUE","size":1099}
+             ]},
+       {"name":"MÉCANIQUE PIÈCES SUR PLAN",
+       "children":[
+              {"name":"AMEP SE","size":58874}
+              ,{"name":"BECK CRESPEL","size":47881}
+              ,{"name":"ETS BARTHAZON","size":71291}
+              ,{"name":"MANIPLASTIC SL","size":214}
+              ,{"name":"MECABUR SL","size":8570}
+              ,{"name":"NYDEGGER  SAS","size":700}
+              ,{"name":"PLEGALASER GIMENEZ SL","size":334}
+              ,{"name":"TALLERES BAIZ SL","size":441}
+              ,{"name":"TALLERES MAC SA","size":174950}
+             ]},
+       {"name":"POMPE",
+       "children":[
+              {"name":"A B POMPES","size":3199}
+              ,{"name":"ATELCO TECHNOLOGIES","size":1280}
+              ,{"name":"ATLAS COMERCIAL INDUSTRIAL SA","size":34174}
+              ,{"name":"AXFLOW SAS","size":27064}
+              ,{"name":"BUSCH FRANCE","size":2636}
+              ,{"name":"CAPERVA QUIMICA SL","size":290979}
+              ,{"name":"CAPRARI","size":14953}
+              ,{"name":"CASALS CARDONA INDUSTRIAL SA","size":3213}
+              ,{"name":"CLEXTRAL/ D K M","size":1897}
+              ,{"name":"CLYDE UNION","size":2814}
+              ,{"name":"COMERCIAL LASMERT SL","size":176}
+              ,{"name":"COREAU SA","size":7277}
+              ,{"name":"CP PUMPEN","size":13811}
+              ,{"name":"CP-PUMPEN AG","size":131534}
+              ,{"name":"DELTA P SERVICES","size":15105}
+              ,{"name":"E,J,M, EQUIPEMENT","size":79471}
+              ,{"name":"EDWARDS","size":104706}
+              ,{"name":"EMICA BOMBAS SA","size":5507}
+              ,{"name":"ENSIVAL MORET FRANCE","size":4122}
+              ,{"name":"ENSIVAL-MORET FRANCE SAS","size":12919}
+              ,{"name":"ERTP  HIBON","size":60628}
+              ,{"name":"FLOWSERVE POMPES","size":34714}
+              ,{"name":"FLOWSERVE PUMPS","size":10090}
+              ,{"name":"FLUX FRANCE","size":14459}
+              ,{"name":"HERMETIC PUMPEN GMBH","size":84130}
+              ,{"name":"INOXPA","size":7604}
+              ,{"name":"IWAKI FRANCE SA","size":27800}
+              ,{"name":"KLAUS UNION","size":3770}
+              ,{"name":"KSB SAS","size":690094}
+              ,{"name":"LVI SYSTEMS","size":3525}
+              ,{"name":"MAAG PUMP SYSTEMS","size":14910}
+              ,{"name":"MECAFLUX - HERMETIC","size":34904}
+              ,{"name":"MESA","size":17914}
+              ,{"name":"MILTON ROY EUROPE","size":226}
+              ,{"name":"MOUVEX","size":856}
+              ,{"name":"MPR SUPPRIME - UTILISER 506489","size":14026}
+              ,{"name":"NETZSCH FRERES SARL","size":5631}
+              ,{"name":"OPTIMEX","size":86214}
+              ,{"name":"P C M POMPES","size":20785}
+              ,{"name":"P,C,B,PLUS POMPES","size":2983}
+              ,{"name":"P,H,A, SARL","size":1980}
+              ,{"name":"POMPES GROSCLAUDE","size":7580}
+              ,{"name":"POMPES LEWA SAS","size":23859}
+              ,{"name":"PROMINENT FRANCE SA","size":570}
+              ,{"name":"RICHTER CHEMIE TECHNIK GMBH","size":4429}
+              ,{"name":"RUTSCHI POMPES SA","size":17053}
+              ,{"name":"SANOR","size":4767}
+              ,{"name":"SOMEFLU","size":1060}
+              ,{"name":"SPX FLOW TECHNOLOGY","size":4109}
+              ,{"name":"SPX FLOW TECHNOLOGY SWEDEN AB","size":115851}
+              ,{"name":"STERLING SIHI","size":87906}
+              ,{"name":"STERLING SIHI (SPAIN) SA","size":6674}
+              ,{"name":"SULZER PUMPS WASTEWATER","size":7492}
+              ,{"name":"WATSON MARLOW SAS","size":519}
+              ,{"name":"XYLEM WATER SOLUTIONS FRANCE SAS","size":1724}
+             ]},
+       {"name":"QUINCAILLERIE / OUTILLAGE",
+       "children":[
+              {"name":"ALONSO MATE CARLOS","size":4756}
+              ,{"name":"ALUMINIOS CAMPEADOR SL","size":3340}
+              ,{"name":"BERNARD & CIE","size":1316}
+              ,{"name":"BLOCH","size":479}
+              ,{"name":"BOHLER SOUDAGE FRANCE SAS","size":8017}
+              ,{"name":"BRAMMER","size":5587}
+              ,{"name":"CALDIC CENTRE","size":2502}
+              ,{"name":"CAMARA DECIMAVILLA SL","size":36894}
+              ,{"name":"CATHELAIN SA","size":1682}
+              ,{"name":"CHAPELLET BUFAB","size":4369}
+              ,{"name":"CHAUMECA GOHIN","size":1180}
+              ,{"name":"CODIMA SUMINISTROS INDUSTRIALES SL","size":919}
+              ,{"name":"CYMAN-CONEXIONES Y MANGUERAS SL","size":3499}
+              ,{"name":"DENIOS","size":1829}
+              ,{"name":"DENY","size":647}
+              ,{"name":"DESCOURS ET CABAUD /PROLIANS","size":111046}
+              ,{"name":"ETS FERRANDON JEAN","size":10142}
+              ,{"name":"ETS PELLETIER MICHEL","size":130}
+              ,{"name":"EUREKA","size":3544}
+              ,{"name":"FERRETERIA BURGALESA SL","size":239}
+              ,{"name":"FICA AGENCE RHONE ALPES","size":1391}
+              ,{"name":"FRANKEL INDUSTRIE","size":6653}
+              ,{"name":"FSI","size":40590}
+              ,{"name":"HALECO","size":1130}
+              ,{"name":"HIJOS J,J,GIMEMEZ IZQUIERDO SL","size":200}
+              ,{"name":"IPC","size":9453}
+              ,{"name":"KAISER+KRAFT SA","size":1219}
+              ,{"name":"LA VIBROPERCUSSION","size":622}
+              ,{"name":"LIMA SA ADHESIFS","size":2135}
+              ,{"name":"MANUTAN","size":58658}
+              ,{"name":"MARIN INDUSTRIE","size":3259}
+              ,{"name":"ND FAST","size":9201}
+              ,{"name":"PROVOST DISTRIBUTION","size":1702}
+              ,{"name":"PUM PLASTIQUES","size":80}
+              ,{"name":"RCI RHONE CHIMIE INDUSTRIE","size":19171}
+              ,{"name":"SAS RICHARD & JF BOURQUI","size":1023}
+              ,{"name":"SERV TRAYVOU INTERVERROUILLAGE","size":1138}
+              ,{"name":"SOCIETE INDUSTRIELLE DE DIFFUSION","size":2528}
+              ,{"name":"STAUBLI RACCORD FRANCE","size":18178}
+              ,{"name":"SUMINISTROS IND,VIPER SA","size":25379}
+              ,{"name":"TDI","size":3165}
+              ,{"name":"TUBOS Y HIERROS INDUSTRIALES SA","size":1965}
+              ,{"name":"VALLCAL SL","size":235}
+              ,{"name":"VMI","size":1311}
+             ]},
+       {"name":"ROBINETTERIE",
+       "children":[
+              {"name":"ARMSTRONG SERVICE","size":26401}
+              ,{"name":"AZ ARMATUREN GMBH","size":739}
+              ,{"name":"BAYARD","size":354}
+              ,{"name":"BIAR SA","size":4385}
+              ,{"name":"BOM ROBINETTERIE INDUSTRIELLE","size":100439}
+              ,{"name":"BOM SODECO","size":15591}
+              ,{"name":"BVALVE FLOW SYSTEMS&CONTROLS SLU","size":9859}
+              ,{"name":"CCI VALVE TECHNOLOGY GMBH","size":46963}
+              ,{"name":"CCI Valve Technology AB","size":39000}
+              ,{"name":"DANFOSS SOCLA","size":2008}
+              ,{"name":"DESCOTE","size":2980}
+              ,{"name":"ERIKS","size":13890}
+              ,{"name":"F,C,E","size":560}
+              ,{"name":"FLOW CONTROL TECHNOLOGIES","size":396}
+              ,{"name":"GUICHON VALVES SA","size":46238}
+              ,{"name":"I,E,S INDUSTRIE EQUIPEMENT","size":4943}
+              ,{"name":"JEAN MAINGUET","size":14483}
+              ,{"name":"KSB AMVI SA","size":1465}
+              ,{"name":"LECHLER FRANCE S,A","size":3243}
+              ,{"name":"LESER","size":19365}
+              ,{"name":"LYON VANNES ET RACCORDS","size":5398}
+              ,{"name":"MASONEILAN SA","size":15573}
+              ,{"name":"MRC TRANSMARK","size":11967}
+              ,{"name":"PAW SARL","size":18777}
+              ,{"name":"PENTAIR VALVES ET CONTROLS","size":414154}
+              ,{"name":"PETRAS SAS","size":836}
+              ,{"name":"ROBIVAL SA","size":14617}
+              ,{"name":"SAIDI NORTE","size":30330}
+              ,{"name":"SOCVALVES","size":177199}
+              ,{"name":"SOLYRO ROBINETTERIE INDUSTRIELLE","size":107880}
+              ,{"name":"SPIRAX SARCO SA","size":27085}
+              ,{"name":"TECHNOR SNRI SAS","size":8723}
+              ,{"name":"TLV","size":11909}
+              ,{"name":"VANATOME","size":112428}
+              ,{"name":"VERDELET  ATN","size":13465}
+              ,{"name":"WEIR POWER ET INDUSTRIAL FRANCE","size":64256}
+             ]},
+       {"name":"THERMIQUE",
+       "children":[
+              {"name":"SAI ACOUSTIQUE","size":11000}
+             ]},
+       {"name":"TURBINES",
+       "children":[
+              {"name":"ELLIOT TURBOMACHINERY LTD","size":44477}
+              ,{"name":"THERMODYN","size":892933}
+              ,{"name":"TURBOMACH FRANCE","size":315122}
+              ,{"name":"TURBOMACH SA","size":20000}
+             ]},
+       {"name":"TUYAUTERIE & ACCESSOIRES",
+       "children":[
+              {"name":"BENE INOX","size":7604}
+              ,{"name":"BLOCH S,A","size":46825}
+              ,{"name":"CAOUTCHOUC ET PLASTIQUES LYONNAIS","size":172}
+              ,{"name":"CENTRE TECH, DES CAOUTCHOUC & PLAST","size":4348}
+              ,{"name":"DEKOMTE FRANCE SARL","size":1339}
+              ,{"name":"EQUIP'INOX","size":17159}
+              ,{"name":"ETS V I O","size":798}
+              ,{"name":"FERLAM COMPENSATEURS","size":4780}
+              ,{"name":"GALLET","size":317}
+              ,{"name":"GLYNWED SA","size":25878}
+              ,{"name":"HTI SERVICES","size":3765}
+              ,{"name":"ICARUS","size":43361}
+              ,{"name":"KDI /CSP","size":262036}
+              ,{"name":"KEMPCHEN & COMDI-FLEX SA","size":10573}
+              ,{"name":"LISEGA","size":37332}
+              ,{"name":"LOIRE INDUSTRIE","size":1421}
+              ,{"name":"LUMOX","size":3369}
+              ,{"name":"MERSEN IBERICA SA","size":22552}
+              ,{"name":"NEBURSA SC","size":369}
+              ,{"name":"PRESTITUBE","size":490}
+              ,{"name":"PROTEC THE CAP COMPANY SARL","size":455}
+              ,{"name":"S,E,M,A,","size":2171}
+              ,{"name":"SCHILLING","size":51326}
+              ,{"name":"SEMA","size":110}
+              ,{"name":"SPIRAGAINE","size":151}
+              ,{"name":"SUMINISTROS INDUSTRIALES INDUTEC","size":44819}
+              ,{"name":"TCEM SAS","size":905}
+              ,{"name":"TRANSFLEX","size":557}
+              ,{"name":"XOMOX","size":176370}
+             ]},
+       {"name":"VENTILATEUR",
+       "children":[
+              {"name":"FEVI International","size":26040}
+              ,{"name":"FLAKT SOLYVENT SL","size":4805}
+              ,{"name":"FLAKT SOLYVENT VENTEC","size":1500}
+              ,{"name":"HOWDEN FRANCE","size":76400}
+              ,{"name":"VENTMECA","size":1681}
+       ]}
+]},{"name":"MOYENS MATÉRIELS",
+"children":[
+       {"name":"EPI",
+       "children":[
+              {"name":"AIR PUR INDUSTRIES","size":3717}
+              ,{"name":"AMARO","size":11103}
+              ,{"name":"AXEL DISTRIBUTION","size":24038}
+              ,{"name":"CONFECCIONES ESTE SL","size":6572}
+              ,{"name":"DELAHAYE INDUSTRIE","size":783}
+              ,{"name":"DESAUTEL","size":3785}
+              ,{"name":"DRAGER SAFETY HISPANIA SA","size":17258}
+              ,{"name":"DUMONT SECURITE","size":6397}
+              ,{"name":"ELECTRONICA VILLBAR SA","size":7231}
+              ,{"name":"ETS ESPUNA","size":2490}
+              ,{"name":"GENERAL OPTICA SA","size":1409}
+              ,{"name":"GERIN SA","size":8229}
+              ,{"name":"GROUPE GERIN","size":167359}
+              ,{"name":"HELIOS DICA SL","size":257}
+              ,{"name":"HONEYWELL SAFETY PRODUCTS","size":4822}
+              ,{"name":"INTERSAFE","size":5449}
+              ,{"name":"KABA","size":780}
+              ,{"name":"LEADER","size":1377}
+              ,{"name":"LES OPTICIENS MUTUALISTES","size":2690}
+              ,{"name":"MATISEC","size":22997}
+              ,{"name":"MATPRELAB SL","size":1078}
+              ,{"name":"NORD'WAYS","size":-195}
+              ,{"name":"SAFETY SYSTEMS ET SERVICES","size":4260}
+              ,{"name":"SECURIGAZ","size":14799}
+              ,{"name":"SUPPRIME MEDIC CENTRE EQUIPEMENT","size":4617}
+              ,{"name":"TEES","size":7357}
+              ,{"name":"VTN SA","size":5552}
+             ]},
+       {"name":"LOCATION DE MATÉRIEL",
+       "children":[
+              {"name":"ALGECO","size":8530}
+              ,{"name":"BATILOC","size":71109}
+              ,{"name":"BROD'SPORT  LA BOITE A RIDEAUX","size":2778}
+              ,{"name":"CARRETILLAS MAYOR SA","size":27275}
+              ,{"name":"CARRIESCOPIC","size":5484}
+              ,{"name":"CENTRE MOTEUR ENERGIE","size":4475}
+              ,{"name":"DELTA SERVICE LOCATION","size":20222}
+              ,{"name":"ESPACE STEVENANT","size":1158}
+              ,{"name":"FENWICK LEASE","size":6400}
+              ,{"name":"FENWICK-LINDE","size":1753}
+              ,{"name":"GAM DIVISIONES ESPECIALIZADAS SLU","size":1563}
+              ,{"name":"HERRERO TEMIÑO SA","size":120}
+              ,{"name":"JUNGHEINRICH","size":89863}
+              ,{"name":"JUNGHEINRICH FINANCIAL SERVICES","size":55910}
+              ,{"name":"LE MATERIEL MODERNE SARL","size":11804}
+              ,{"name":"LOCABRI","size":9911}
+              ,{"name":"MANULOC AMONITE SUD EST","size":123512}
+              ,{"name":"MANUTENTION SERVICE","size":51642}
+              ,{"name":"POLYGON","size":8960}
+              ,{"name":"RLD","size":73262}
+              ,{"name":"TENILLOC","size":7415}
+              ,{"name":"TOLDOS CARLOS SL","size":1391}
+              ,{"name":"YVES COUGNAUD SA","size":22500}
+             ]},
+       {"name":"LUBRIFIANTS",
+       "children":[
+              {"name":"CONDAT","size":1584}
+              ,{"name":"INDUSTRIAS QUIMICAS SATECMA SA","size":155}
+              ,{"name":"KEPLER INGENIERIA Y ECOGESTION SL","size":12337}
+              ,{"name":"LUBRYPESA GESTION SL","size":5385}
+              ,{"name":"OPTIMOL FRANCE","size":58749}
+              ,{"name":"ORAPI EUROPE","size":3903}
+              ,{"name":"OTS OIL TECHNOLOGIES SERVICES","size":515}
+              ,{"name":"SOCIETE DES PETROLES SHELL","size":14587}
+              ,{"name":"TOTAL LUBRIFIANTS","size":23021}
+              ,{"name":"TTA TECHNIQUES TECHNOLOGIES","size":26414}
+             ]},
+       {"name":"SIGNALÉTIQUE",
+       "children":[
+              {"name":"ADC SIGNALISATION","size":4091}
+              ,{"name":"AE&T","size":19302}
+              ,{"name":"Atelier BABUT","size":145}
+              ,{"name":"M,I,C SIGNALOC","size":1360}
+              ,{"name":"RUF POSEUR D'EMPREINTES","size":29106}
+              ,{"name":"SARL GTS","size":387}
+              ,{"name":"SIGNALS","size":6694}
+              ,{"name":"SIRAC SIGNALISATION","size":576}
+       ]}
+]},{"name":"Non affecté",
+"children":[
+       {"name":"BÂTIMENT / SECOND OEUVRE",
+       "children":[
+              {"name":"DIC","size":16753}
+              ,{"name":"MSM MANCINI SERRURERIE METALLERIE","size":3597}
+             ]},
+       {"name":"Non affecté",
+       "children":[
+              {"name":"C,TECN,VEHICULO AUTOPROPULSADO SL","size":4146}
+              ,{"name":"DIOXLAB","size":745}
+       ]}
+]},{"name":"PRESTATIONS INDUSTRIELLES",
+"children":[
+       {"name":"BÂTIMENT / SECOND OEUVRE",
+       "children":[
+              {"name":"NBTP","size":17730}
+             ]},
+       {"name":"TUYAUTERIE - CHAUDONNERIE",
+       "children":[
+              {"name":"SOVAP","size":1800}
+             ]},
+       {"name":"Non affecté",
+       "children":[
+              {"name":"EPCO MEDITERRANEE","size":10500}
+             ]},
+       {"name":"PLOMBERIE",
+       "children":[
+              {"name":"LOPEZ PLOMBERIE ELECTRICITE","size":45548}
+       ]}
+]}
+]}
